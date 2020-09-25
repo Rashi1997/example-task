@@ -9,7 +9,8 @@ const eventCodes = {
 	evidence: 5,
 	show_earnings: 7,
 	test_connect: 32,
-	open_task: 18
+	open_task: 18,
+	show_image: 2
 }
 
 // this is module.exports isntead of just exports as it is also imported into the electron app

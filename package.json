@@ -1,17 +1,13 @@
 {
-  "name": "task-starter",
+  "name": "example-task",
   "description": "all-in-one starter app with jsPsych + React + Electron + psiturk ",
-  "author": {
-    "name": "Brown CCV",
-    "email": "ccv-bot@brown.edu",
-    "url": "ccv.brown.edu"
-  },
+  "author": "Rashi Dhar",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "main": "public/electron.js",
   "homepage": ".",
-  "repository": "https://github.com/brown-ccv/neuro-task-starter",
+  "repository": "https://github.com/Rashi1997/example-task",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0",
     "bootstrap": "^4.3.1",
